@@ -14,6 +14,7 @@
     "css-unit-converter": ["📐", "CSS Unit Converter", "CSS Unit Converter"],
     "git-ignore-generator": ["📝", ".gitignore Generator", ".gitignore Generator"],
     "json-viewer": ["🔍", "JSON Viewer", "JSON Viewer"],
+    "url-encode-decoder": ["🔡", "URL 编解码工具", "URL Encode Decoder"],
     "xml-viewer": ["🗂️", "XML Viewer", "XML Viewer"],
     "csv-viewer": ["📊", "CSV Viewer", "CSV Viewer"],
     "yaml-viewer": ["📄", "YAML Viewer", "YAML Viewer"],
