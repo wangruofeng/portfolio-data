@@ -4,6 +4,7 @@
     "qr-tool": ["▦", "二维码工具", "QR Tool"],
     "file-hash": ["#️⃣", "文件哈希校验", "File Hash Checker"],
     "unicode-lookup": ["🔤", "Unicode 速查", "Unicode Lookup"],
+    "unicode-picker": ["✦", "Unicode 符号选择器", "Unicode Symbol Picker"],
     "id-card": ["🪪", "身份证解析校验", "ID Card Parser"],
     "tax-calc": ["🧮", "个税计算器", "Tax Calculator"],
     "mortgage-calc": ["🏠", "房贷计算器", "Mortgage Calculator"],
