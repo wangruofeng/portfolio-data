@@ -48,6 +48,7 @@
     "easy-ftp": ["🌐", "easy-ftp", "easy-ftp"],
     "text-snap": ["📸", "TextSnap", "TextSnap"],
     "kids-art-gallery": ["🎨", "儿童画作画廊", "Kids Art Gallery"],
-    "skillctl": ["🎛️", "skillctl", "skillctl"]
+    "skillctl": ["🎛️", "skillctl", "skillctl"],
+    "md2img": ["🖼️", "MD2Img", "MD2Img"]
   }
 }
