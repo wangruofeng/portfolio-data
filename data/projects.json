@@ -51,6 +51,7 @@
     "skillctl": ["🎛️", "skillctl", "skillctl"],
     "md2img": ["🖼️", "MD2Img", "MD2Img"],
     "aihot": ["🔥", "公众号 AI 爆款洞察", "AI Viral Insights"],
-    "ai-models": ["🤖", "AI 模型目录", "AI Model Catalog"]
+    "ai-models": ["🤖", "AI 模型目录", "AI Model Catalog"],
+    "prompts-collect": ["✨", "AI 生图提示词库", "AI Image Prompt Library"]
   }
 }
