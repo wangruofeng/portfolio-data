@@ -55,6 +55,7 @@
     "prompts-collect": ["✨", "AI 生图提示词库", "AI Image Prompt Library"],
     "chrome-copy": ["📋", "X 正文一键复制", "X Post Copy"],
     "ai-news": ["🗞️", "AI 新闻", "AI News"],
-    "fav-deckly": ["🔖", "FavDeckly", "FavDeckly"]
+    "fav-deckly": ["🔖", "FavDeckly", "FavDeckly"],
+    "fm": ["🎵", "Mystery Vinyl", "Mystery Vinyl"]
   }
 }
